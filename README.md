@@ -11,8 +11,8 @@
 
 ## Insights:
 The most important predictor variables after the change implemented are:
-•	GrLivArea
-•	OverallQual
-•	SaleCondition_Partial
-•	YearBuilt
-•	Neighborhood_Crawfor
+- GrLivArea
+- OverallQual
+- SaleCondition_Partial
+- YearBuilt
+- Neighborhood_Crawfor
